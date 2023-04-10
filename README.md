@@ -1,17 +1,12 @@
 # Benjamin_Portfolio
-Benjamin Ang's coding portfolio
+Welcome to my data science portfolio! Here are a few projects that I have worked on recently:
 
-# [Project 1: Classification of Fake and Real News from Filipino Sources Using Dense, LSTM and Convolutional Neural Networks](https://google.com)
-* Trained a fake news classifier using a "Filipino Fake News Dataset"
-* Used long short-term memory neural network (LSTM), densely-connected neural network (DNN), and a convolutional neral network (CNN) to perform a binary classification prediction of the news article.
-* Evaluated the neural networks 
+# [Project 1: Classification of Fake and Real News from Filipino Sources Using Dense, LSTM and Convolutional Neural Networks](https://github.com/benjaminang06/Fake-News-Classifier)
+We developed a binary classification model to distinguish between fake and real news articles from Filipino sources. The project uses Keras with its Tensorflow backend to implement deep learning models such as Dense, LSTM, and Convolutional Neural Networks (CNN) for the classification task. The models are trained and evaluated on a "Filipino Fake News Dataset" to identify the most effective model for detecting fake news articles. All three models displayed superb performance as each of them had accuracy greater than 90% on the testing data.
 
-![](/images/positions_by_state.png)
 
 
 # [Project 2: Modeling Economic Behaviour in the Car Industry using Agent-Based Techniques](https://google.com)
-* Adapted an agent-based model to simulate a car market's consumers' purchasing behaviour
-* Approximated the agents' individual characteristics through a normal distribution with mean and standard deviation obtained from datasets.
-* Simulated the decoy effect
-* Used matplotlib and seaborn to visualize the results of the visualization
+We used the AgentPy libary to create an agent-based model to simulate a car market's consumers' purchasing behaviour. We approximated each agents' individual characteristics through a normal distribution with mean and standard deviation obtained from datasets and various online sources. Then, we used matplotlib and seaborn to visualize the results of the visualization.
+
 ![](/images/matrix_results.png)
