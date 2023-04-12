@@ -14,8 +14,7 @@ We used the AgentPy libary to create an agent-based model to simulate a car mark
 
 # [Project 4: Creating a 3-dimensional Rotating Shuttle](https://github.com/benjaminang06/Rotating-Shuttle)
 We used linear transformations to create a 3-dimensional rendering of a shuttle.
-
-![Alt Text](shuttle.gif)
+![Alt Text](https://github.com/benjaminang06/Rotating-Shuttle/blob/main/shuttle.gif)
 
 
 
