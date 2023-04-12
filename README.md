@@ -10,3 +10,14 @@ We developed a binary classification model to distinguish between fake and real 
 We used the AgentPy libary to create an agent-based model to simulate a car market's consumers' purchasing behaviour. We approximated each agents' individual characteristics through a normal distribution with mean and standard deviation obtained from datasets and various online sources. Then, we used matplotlib and seaborn to visualize the results of the visualization.
 
 ![](/images/matrix_results.png)
+
+
+# [Project 4: Creating a 3-dimensional Rotating Shuttle] (https://github.com/benjaminang06/Rotating-Shuttle)
+We used linear transformations to create a 3-dimensional rendering of a shuttle.
+
+![Alt Text](/Users/benjaminang/Linear Algebra Files/shuttle.gif)
+
+
+
+
+
