@@ -7,7 +7,7 @@ We developed a binary classification model to distinguish between fake and real 
 
 
 # [Project 2: Modeling Economic Behaviour in the Car Industry using Agent-Based Techniques](https://google.com)
-We used the AgentPy libary to create an agent-based model to simulate a car market's consumers' purchasing behaviour. We approximated each agents' individual characteristics through a normal distribution with mean and standard deviation obtained from datasets and various online sources. Then, we used matplotlib and seaborn to visualize the results of the visualization.
+We used the AgentPy library to create an agent-based model to simulate a car market's consumers' purchasing behaviour. We approximated each agents' individual characteristics through a normal distribution with mean and standard deviation obtained from datasets and various online sources. Then, we used matplotlib and seaborn to visualize the results of the visualization.
 
 ![](/images/matrix_results.png)
 
