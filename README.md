@@ -11,9 +11,9 @@ We used the AgentPy library to create an agent-based model to simulate a car mar
 
 ![](https://github.com/benjaminang06/Modeling-Economic-Behavior/blob/main/Simulation%20Results.png)
 
-# [Project 3: 8-puzzle Algorithm Solver](https://github.com/benjaminang06/Rotating-Shuttle)
+# [Project 3: 8-puzzle Algorithm Solver](https://github.com/benjaminang06/8-Puzzle)
 We demonstrated various search algorithms to solve the 8-puzzle problem. Our functions takes in am initial configuration and outputs the steps to reach the goal node.
-![Alt Text](https://github.com/benjaminang06/Rotating-Shuttle/blob/main/shuttle.gif)
+![Alt Text](https://github.com/benjaminang06/8-Puzzle/blob/main/8-Puzzle.png)
 
 # [Project 4: Creating a 3-dimensional Rotating Shuttle](https://github.com/benjaminang06/Rotating-Shuttle)
 We used linear transformations to create a 3-dimensional rendering of a shuttle.
