@@ -3,7 +3,7 @@
 Welcome to my portfolio! I'm Benjamin, an aspiring data scientist with a keen interest in applying innovative solutions to complex problems. Below are some of the projects I've worked on recently.
 ## Project Highlights
 
-### [Project 1: Time Series Analysis and Forecasting using ARMA Models: A Case Study of the Philippine Stock Exchange]([https://github.com/benjaminang06/Topological-Data-Analysis](https://github.com/benjaminang06/TimeSeries)
+### [Project 1: Time Series Analysis and Forecasting using ARMA Models: A Case Study of the Philippine Stock Exchange](https://github.com/benjaminang06/TimeSeries)
 
 **Objective:** Developed an ARMA model to predict future trends in the Philippine Stock Exchange Composite Index using historical data from 1987 to 2022.
 
