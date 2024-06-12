@@ -9,6 +9,8 @@ Welcome to my portfolio! I'm Benjamin, an aspiring data scientist with a keen in
 
 **Key Results:** Identified the AR(1) model as the best fit with a MAPE of 6.62%, providing highly accurate forecasts. This model helps stakeholders make informed investment decisions by anticipating market movements.
 
+![PSEI 2 and 3 Year Forecast]
+(https://github.com/benjaminang06/TimeSeries/blob/main/IMG_1056.jpeg)
 
 ### [Project 2: Insights from UAAP Basketball Data Through Topology](https://github.com/benjaminang06/Topological-Data-Analysis)
 
