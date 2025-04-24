@@ -6,7 +6,7 @@ Hey there! I’m Benjamin—a data scientist with an Applied Mathematics backgro
 **Objective:** Developed a web app for storing and visualizing scrim and tournament match results, giving teams access to historical logs and an interactive performance dashboard.
 
 **Key Results:**  
-- Centralized over 500 match records, eliminating dozens of Excel files  
+- Centralized over 200 match records, eliminating dozens of Excel files  
 - Reduced pre-game analysis time by 40% through automated summaries  
 
 <table>
