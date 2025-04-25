@@ -3,7 +3,7 @@
 Hey there! I’m Benjamin—a data scientist with an Applied Mathematics background who loves solving business problems. I like to think of this portfolio as a programming diary: each project snapshot captures what sparked my curiosity at that moment. I hope you enjoy exploring these experiments and getting to know me.
 
 ### [Project 1: The First Step Towards Data-Driven Esports: A Match Results Tracker](https://github.com/benjaminang06/mlwebapp/blob/clean-code/README.md)
-**Objective:** Developed a web app for storing and visualizing scrim and tournament match results, giving teams access to historical logs and an interactive performance dashboard.
+**Objective:** Developed a full-stack web app for storing and visualizing scrim and tournament match results, giving teams access to historical logs and an interactive performance dashboard.
 
 **Key Results:**  
 - Centralized over 200 match records, eliminating dozens of Excel files  
@@ -78,7 +78,8 @@ Throughout my college journey, I relied on Grant Sanderson’s (3Blue1Brown) Man
 - Visual demonstration of how the SSE (sum of squared errors) changes as the line moves  
 - Interactive breakdown of slope and intercept adjustments  
 
-<img width="1440" alt="image" src="https://github.com/user-attachments/assets/e084c41b-c8a0-4f7a-9859-ff2fdc94bccf" />
+
+https://github.com/user-attachments/assets/856ca5fc-6bc7-41eb-bd60-63dfd2004dc3
 
 
 
