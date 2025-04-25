@@ -3,7 +3,7 @@
 Hey there! I’m Benjamin—a data scientist with an Applied Mathematics background who loves solving business problems. I like to think of this portfolio as a programming diary: each project snapshot captures what sparked my curiosity at that moment. I hope you enjoy exploring these experiments and getting to know me.
 
 ### [Project 1: The First Step Towards Data-Driven Esports: A Match Results Tracker](https://github.com/benjaminang06/mlwebapp/blob/clean-code/README.md)
-**Objective:** Developed a full-stack web app for storing and visualizing scrim and tournament match results, giving teams access to historical logs and an interactive performance dashboard.
+**Description:** Developed a full-stack web app for storing and visualizing scrim and tournament match results, giving teams access to historical logs and an interactive performance dashboard.
 
 **Key Results:**  
 - Centralized over 200 match records, eliminating dozens of Excel files  
@@ -41,7 +41,7 @@ Hey there! I’m Benjamin—a data scientist with an Applied Mathematics backgro
 
 ### [Project 2: An Integrated Approach to Next Best Offer Modeling for Financial Products: A Multi-Model Architecture](https://github.com/benjaminang06/Next_Best_Offer/blob/main/README.md) 
 
-**Objective:**  
+**Description:**  
 Develop an ensemble recommendation system that suggests the next best financial product based on customer characteristics and transaction history.
 
 **Approach:**  
@@ -62,7 +62,7 @@ Develop an ensemble recommendation system that suggests the next best financial 
 ![image](https://github.com/user-attachments/assets/789560c4-40ac-4ada-b0aa-105eca42bfcc)
 ### [Project 3: Insights from UAAP Basketball Data Through Topology](https://github.com/benjaminang06/Topological-Data-Analysis)
 
-**Objective:** Leveraged Topological Data Analysis (TDA) using Giotto TDA to uncover unique player subgroups in UAAP basketball beyond traditional positions.
+**Description:** Leveraged Topological Data Analysis (TDA) using Giotto TDA to uncover unique player subgroups in UAAP basketball beyond traditional positions.
 
 **Key Results:** Identified new player roles and strategies, offering novel insights for team management and tactical planning. Demonstrated the practical applications of TDA in sports analytics.
 
@@ -70,7 +70,7 @@ Develop an ensemble recommendation system that suggests the next best financial 
 
 ### [Project 4: Linear Regression Visualized: Building Intuition Behind Ordinary Least Squares](<REPO_LINK>)
 
-**Objective:**  
+**Description:**  
 Throughout my college journey, I relied on Grant Sanderson’s (3Blue1Brown) Manim videos to master concepts from linear algebra to neural networks and cryptography. For my Ateneo statistics teaching demo, I built on that inspiration—using Manim to animate Ordinary Least Squares regression and bring to life how the best-fit line emerges by minimizing the sum of squared residuals, while forging a clear link between the algebraic formulas and geometric intuition.
 
 **Key Highlights:**  
@@ -85,7 +85,7 @@ https://github.com/user-attachments/assets/856ca5fc-6bc7-41eb-bd60-63dfd2004dc3
 
 ### [Project 5: Time Series Analysis and Forecasting using ARMA Models: A Case Study of the Philippine Stock Exchange](https://github.com/benjaminang06/TimeSeries)
 
-**Objective:** Developed an ARMA model to predict future trends in the Philippine Stock Exchange Composite Index using historical data from 1987 to 2022.
+**Description:** Developed an ARMA model to predict future trends in the Philippine Stock Exchange Composite Index using historical data from 1987 to 2022.
 
 **Key Results:** Identified the AR(1) model as the best fit with a MAPE of 6.62%, providing highly accurate forecasts. This model helps stakeholders make informed investment decisions by anticipating market movements.
 
@@ -95,7 +95,7 @@ https://github.com/user-attachments/assets/856ca5fc-6bc7-41eb-bd60-63dfd2004dc3
 
 ### [Project 6: Fake News Detection in Filipino News Sources](https://github.com/benjaminang06/Fake-News-Classifier)
 
-**Objective:** Developed a binary classification model to differentiate between fake and real news articles from Filipino sources using Dense, LSTM, and Convolutional Neural Networks (CNNs).
+**Description:** Developed a binary classification model to differentiate between fake and real news articles from Filipino sources using Dense, LSTM, and Convolutional Neural Networks (CNNs).
 
 **Key Results:** Achieved over 90% accuracy in detecting fake news, demonstrating the effectiveness of deep learning in content verification.
 
@@ -103,7 +103,7 @@ https://github.com/user-attachments/assets/856ca5fc-6bc7-41eb-bd60-63dfd2004dc3
 
 ### [Project 7: Agent-Based Modeling of Economic Behavior in the Car Industry](https://github.com/benjaminang06/Modeling-Economic-Behavior)
 
-**Objective:** Utilized the AgentPy library to simulate consumer purchasing behavior in the car market, integrating normal distributions for agent characteristics.
+**Description:** Utilized the AgentPy library to simulate consumer purchasing behavior in the car market, integrating normal distributions for agent characteristics.
 
 **Key Results:** Created a realistic simulation of the car market, with visualizations made using matplotlib and seaborn to analyze consumer behavior and market dynamics.
 
@@ -111,7 +111,7 @@ https://github.com/user-attachments/assets/856ca5fc-6bc7-41eb-bd60-63dfd2004dc3
 
 ### [Project 8: 8-Puzzle Algorithm Solver](https://github.com/benjaminang06/8-Puzzle)
 
-**Objective:** Implemented various search algorithms to find the solution for the 8-puzzle problem, demonstrating algorithm efficiency and optimization.
+**Description:** Implemented various search algorithms to find the solution for the 8-puzzle problem, demonstrating algorithm efficiency and optimization.
 
 **Key Results:** Developed functions that efficiently navigate from any given initial state to the goal state, showcasing different search strategy strengths.
 
@@ -119,7 +119,7 @@ https://github.com/user-attachments/assets/856ca5fc-6bc7-41eb-bd60-63dfd2004dc3
 
 ### [Project 9: 3D Rotating Shuttle Simulation](https://github.com/benjaminang06/Rotating-Shuttle)
 
-**Objective:** Applied linear transformations to generate a 3-dimensional rotating shuttle, exploring computer graphics and transformation matrices.
+**Description:** Applied linear transformations to generate a 3-dimensional rotating shuttle, exploring computer graphics and transformation matrices.
 
 **Key Results:** Created a visually appealing 3D model of a shuttle, demonstrating the application of linear algebra in computer graphics.
 
