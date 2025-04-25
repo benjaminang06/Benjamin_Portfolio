@@ -57,6 +57,9 @@ Develop an ensemble recommendation system that suggests the next best financial 
 4. Ensemble ranking and blending of weighted scores.  
 5. Validation using AUC, precision@K, and lift metrics.
 
+**Results:**
+
+![image](https://github.com/user-attachments/assets/789560c4-40ac-4ada-b0aa-105eca42bfcc)
 ### [Project 3: Insights from UAAP Basketball Data Through Topology](https://github.com/benjaminang06/Topological-Data-Analysis)
 
 **Objective:** Leveraged Topological Data Analysis (TDA) using Giotto TDA to uncover unique player subgroups in UAAP basketball beyond traditional positions.
